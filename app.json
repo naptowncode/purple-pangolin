@@ -1,0 +1,12 @@
+{
+  "keywords": ["node"],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size" : "standard-1X"
+    }
+  },
+  "env": {
+  },
+  "buildpacks": [{ "url": "heroku/nodejs" }]
+}
